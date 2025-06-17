@@ -54,3 +54,6 @@ Para rodar o jogo:
 3. Não necessita de servidor ou conexão com internet, funcionando totalmente offline.
 
 A sustentabilidade na produção é um passo fundamental para garantir a preservação dos recursos e o equilíbrio ambiental.
+
+
+#AGRINHO2025
